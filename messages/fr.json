@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "title": "Bachelors Finance Club — CentraleSupélec",
+    "description": "Le club de finance étudiant du programme Bachelor de CentraleSupélec. Marchés, recherche et éducation financière."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "team": "Équipe",
+    "events": "Événements",
+    "articles": "Articles",
+    "contact": "Contact",
+    "join": "Nous rejoindre"
+  },
+  "home": {
+    "eyebrow": "CentraleSupélec · Programme Bachelor",
+    "title": "Bachelors Finance Club",
+    "tagline": "Là où les étudiants apprennent les marchés, publient de vraies analyses et construisent leur carrière.",
+    "ctaPrimary": "Rejoindre le club",
+    "ctaSecondary": "Lire nos analyses",
+    "pillarsEyebrow": "Ce que nous faisons",
+    "pillarsTitle": "Trois piliers, un club",
+    "pillars": {
+      "markets": {
+        "title": "Marchés & Investissement",
+        "body": "Gestion de portefeuille concrète, points marché et challenges de trading pour transformer la théorie en intuition."
+      },
+      "research": {
+        "title": "Recherche & Publications",
+        "body": "Nos membres publient des analyses d'entreprises, de secteurs et de thèmes macro — et se constituent un vrai portfolio."
+      },
+      "careers": {
+        "title": "Carrières & Réseau",
+        "body": "Ateliers, conférences d'anciens et préparation aux stages en marchés, M&A et gestion d'actifs."
+      }
+    },
+    "featuredEyebrow": "Dernières analyses",
+    "featuredTitle": "Depuis le desk",
+    "featuredCta": "Tous les articles",
+    "eventsEyebrow": "À venir",
+    "eventsTitle": "Prochains événements",
+    "eventsCta": "Tous les événements",
+    "joinEyebrow": "S'impliquer",
+    "joinTitle": "Prêt à nous rejoindre ?",
+    "joinBody": "Ouvert à tous les étudiants Bachelor curieux de finance — aucune expérience requise.",
+    "joinCta": "Nous contacter"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Qui sommes-nous",
+    "intro": "Le Bachelors Finance Club est une association étudiante de CentraleSupélec dédiée à l'éducation financière, à la recherche de marché et à la préparation professionnelle des étudiants Bachelor.",
+    "missionTitle": "Notre mission",
+    "missionBody": "Rendre la finance accessible et rigoureuse. À travers des sessions hebdomadaires, des analyses publiées et une communauté bienveillante, nous accompagnons chaque étudiant de la curiosité à la maîtrise.",
+    "activitiesTitle": "Nos activités",
+    "activities": [
+      "Points marché et discussions hebdomadaires",
+      "Analyses écrites sur les actions, secteurs et la macro",
+      "Compétitions de trading et de stock-pitch",
+      "Conférences d'anciens et ateliers carrière",
+      "Préparation aux stages et entretiens"
+    ],
+    "historyTitle": "Notre histoire",
+    "historyBody": "Fondé par des étudiants Bachelor souhaitant un lieu sérieux mais accueillant pour apprendre les marchés, le club est devenu une maison pour tous ceux qui veulent comprendre comment la finance fonctionne vraiment."
+  },
+  "team": {
+    "eyebrow": "Les membres",
+    "title": "Notre équipe",
+    "intro": "Les membres et le bureau derrière le club. (Profils fictifs — vrais noms et photos à venir.)",
+    "boardTitle": "Bureau",
+    "membersTitle": "Membres",
+    "placeholderNote": "Cette section est un exemple. Modifiez content/team.ts pour ajouter de vraies personnes."
+  },
+  "events": {
+    "eyebrow": "Agenda",
+    "title": "Événements",
+    "intro": "Conférences, compétitions et ateliers — ouverts aux membres comme aux curieux.",
+    "upcomingTitle": "À venir",
+    "pastTitle": "Événements passés",
+    "noUpcoming": "Aucun événement annoncé pour l'instant. Revenez bientôt.",
+    "register": "S'inscrire"
+  },
+  "articles": {
+    "eyebrow": "Desk de recherche",
+    "title": "Articles",
+    "intro": "Analyses et notes de marché rédigées par nos membres.",
+    "readMore": "Lire l'article",
+    "backToArticles": "Tous les articles",
+    "by": "Par",
+    "empty": "Aucun article publié pour l'instant. Les premiers arrivent bientôt.",
+    "minRead": "min de lecture"
+  },
+  "contact": {
+    "eyebrow": "Dites bonjour",
+    "title": "Nous contacter",
+    "intro": "Une question, une idée de partenariat, ou envie de nous rejoindre ? Écrivez-nous.",
+    "joinTitle": "Envie de nous rejoindre ?",
+    "joinBody": "Nous accueillons de nouveaux membres toute l'année. Écrivez-nous et nous vous invitons à la prochaine session.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "sending": "Envoi…",
+      "success": "Merci — votre message a bien été envoyé. Nous vous répondrons vite.",
+      "error": "Une erreur s'est produite. Réessayez, ou écrivez-nous directement.",
+      "validation": "Veuillez vérifier les champs indiqués."
+    }
+  },
+  "footer": {
+    "tagline": "Bachelors Finance Club — CentraleSupélec",
+    "navTitle": "Explorer",
+    "contactTitle": "Contact",
+    "followTitle": "Suivre",
+    "rights": "Tous droits réservés.",
+    "builtNote": "Une association étudiante."
+  },
+  "common": {
+    "languageLabel": "Langue",
+    "menu": "Menu",
+    "close": "Fermer",
+    "skipToContent": "Aller au contenu"
+  }
+}

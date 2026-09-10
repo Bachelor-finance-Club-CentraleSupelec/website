@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "title": "Bachelors Finance Club — CentraleSupélec",
+    "description": "The student-run finance club of CentraleSupélec's Bachelor programme. Markets, research, and financial education."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "team": "Team",
+    "events": "Events",
+    "articles": "Articles",
+    "contact": "Contact",
+    "join": "Join us"
+  },
+  "home": {
+    "eyebrow": "CentraleSupélec · Bachelor Programme",
+    "title": "Bachelors Finance Club",
+    "tagline": "Where students learn the markets, publish real research, and build the careers behind them.",
+    "ctaPrimary": "Join the club",
+    "ctaSecondary": "Read our research",
+    "pillarsEyebrow": "What we do",
+    "pillarsTitle": "Three pillars, one club",
+    "pillars": {
+      "markets": {
+        "title": "Markets & Investing",
+        "body": "Hands-on portfolio work, market briefings, and trading challenges that turn theory into intuition."
+      },
+      "research": {
+        "title": "Research & Publications",
+        "body": "Members publish written analyses on companies, sectors, and macro themes — building a track record."
+      },
+      "careers": {
+        "title": "Careers & Network",
+        "body": "Workshops, alumni talks, and prep for internships across markets, IB, and asset management."
+      }
+    },
+    "featuredEyebrow": "Latest research",
+    "featuredTitle": "From the desk",
+    "featuredCta": "All articles",
+    "eventsEyebrow": "What's next",
+    "eventsTitle": "Upcoming events",
+    "eventsCta": "All events",
+    "joinEyebrow": "Get involved",
+    "joinTitle": "Ready to join?",
+    "joinBody": "Open to every Bachelor student curious about finance — no prior experience required.",
+    "joinCta": "Get in touch"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "Who we are",
+    "intro": "The Bachelors Finance Club is a student-run association at CentraleSupélec dedicated to financial education, market research, and career preparation for Bachelor students.",
+    "missionTitle": "Our mission",
+    "missionBody": "We make finance accessible and rigorous. Through weekly sessions, published research, and a supportive community, we help students go from curious to competent — whatever their starting point.",
+    "activitiesTitle": "What we do",
+    "activities": [
+      "Weekly market briefings and discussions",
+      "Written research on equities, sectors, and macro",
+      "Trading and stock-pitch competitions",
+      "Alumni talks and career workshops",
+      "Internship and interview preparation"
+    ],
+    "historyTitle": "Our story",
+    "historyBody": "Founded by Bachelor students who wanted a serious yet welcoming place to learn markets, the club has grown into a home for anyone eager to understand how finance really works."
+  },
+  "team": {
+    "eyebrow": "The people",
+    "title": "Meet the team",
+    "intro": "The members and board behind the club. (Placeholder profiles — real names and photos coming soon.)",
+    "boardTitle": "Board",
+    "membersTitle": "Members",
+    "placeholderNote": "This section is a placeholder. Edit content/team.ts to add real people."
+  },
+  "events": {
+    "eyebrow": "Agenda",
+    "title": "Events",
+    "intro": "Talks, competitions, and workshops — open to members and curious newcomers alike.",
+    "upcomingTitle": "Upcoming",
+    "pastTitle": "Past events",
+    "noUpcoming": "No upcoming events announced yet. Check back soon.",
+    "register": "Register"
+  },
+  "articles": {
+    "eyebrow": "Research desk",
+    "title": "Articles",
+    "intro": "Analyses and market notes written by our members.",
+    "readMore": "Read article",
+    "backToArticles": "All articles",
+    "by": "By",
+    "empty": "No articles published yet. The first ones are on their way.",
+    "minRead": "min read"
+  },
+  "contact": {
+    "eyebrow": "Say hello",
+    "title": "Get in touch",
+    "intro": "Questions, partnership ideas, or want to join? Send us a message.",
+    "joinTitle": "Want to join?",
+    "joinBody": "We welcome new members throughout the year. Drop us a line and we'll get you to the next session.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending…",
+      "success": "Thanks — your message has been sent. We'll get back to you soon.",
+      "error": "Something went wrong. Please try again, or email us directly.",
+      "validation": "Please check the highlighted fields."
+    }
+  },
+  "footer": {
+    "tagline": "Bachelors Finance Club — CentraleSupélec",
+    "navTitle": "Explore",
+    "contactTitle": "Contact",
+    "followTitle": "Follow",
+    "rights": "All rights reserved.",
+    "builtNote": "A student-run association."
+  },
+  "common": {
+    "languageLabel": "Language",
+    "menu": "Menu",
+    "close": "Close",
+    "skipToContent": "Skip to content"
+  }
+}
